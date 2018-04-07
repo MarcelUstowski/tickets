@@ -1,4 +1,5 @@
 tickets.h library gives you:
+
 -biletulgowy and biletnormalny  : multiplying two digits (int a , int b)
 -reszta1  : calculates the absolute value of (int reszta)
 -rabat1  : calculates the % of the discount   e.p rabat1(50,30) means 50% out of 30
